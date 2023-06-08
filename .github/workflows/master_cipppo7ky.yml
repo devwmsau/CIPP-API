@@ -26,4 +26,4 @@ jobs:
           app-name: 'cipppo7ky'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EB0A287B2C924606BDEF04EA6F04FA94 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5853B9DFFAAD4E0EAB4B215DB4425409 }}
